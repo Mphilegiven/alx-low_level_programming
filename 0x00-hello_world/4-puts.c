@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Putting function using push
+ * main - Puts Programming is like building a multilingual puzzle
  *
- * return : Always 0 (Success)
+ * Return: 0 (Success)
  *
  * Description: This function prints a message using the puts function
  *
