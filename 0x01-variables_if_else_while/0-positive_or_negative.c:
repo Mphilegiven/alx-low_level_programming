@@ -1,0 +1,16 @@
+
+
+sitive_or_negative.c:12:15: error: expected ‘;’ before ‘n’
+   12 | srand(time(0))
+      |               ^
+      |               ;
+   13 | n = rand() - RAND_MAX / 2;
+      | ~              
+0-positive_or_negative.c:21:1: error: ‘ei’ undeclared (first use in this function)
+   21 | ei}
+      | ^~
+0-positive_or_negative.c:21:1: note: each undeclared identifier is reported only once for each function it appears in
+0-positive_or_negative.c:21:3: error: expected ‘;’ before ‘}’ token
+   21 | ei}
+      |   ^
+      |   ;
